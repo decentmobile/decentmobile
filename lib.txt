@@ -1,0 +1,7 @@
+(Прежде всего добавьте ESP8266 в arduino IDE |https://arduino.esp8266.com/stable/package_esp8266com_index.json| )
+* ESPSoftwareSerial (> 6.15.1)
+* WebSockets (by Markus Sattler)
+* EByte LoRa E220 library
+
+
+
