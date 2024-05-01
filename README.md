@@ -22,7 +22,8 @@ Web: https://decentmobile.ru/
 Сборка терминала.
 <br>
 Сборка происходит по следующей схеме:
-![decentmobileTerminal](https://github.com/ReznapOcsid/Decentmobile/assets/168619969/78516204-79f3-4f08-b9e7-acf93952e4c1)
+![decentmobileTerminal](https://github.com/ReznapOcsid/Decentmobile/assets/168619969/828fcca9-272a-416e-b05a-265fd62785e9)
+
 
 
 <hr>
