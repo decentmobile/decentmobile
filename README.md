@@ -10,6 +10,8 @@ Decentmobile - попытка организовать автономную mesh
 
 Сборка терминала.
 Сборка происходит по следующей схеме:
-![Uploading decentmobileTerminal.jpg…]()
+![decentmobileTerminal](https://github.com/ReznapOcsid/Decentmobile/assets/168619969/78516204-79f3-4f08-b9e7-acf93952e4c1)
+
+
 
 
